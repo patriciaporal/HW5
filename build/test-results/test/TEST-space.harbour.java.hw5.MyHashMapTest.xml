@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="space.harbour.java.hw5.MyHashMapTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-11-16T07:27:39" hostname="Patricias-MacBook-Air.local" time="0.001">
+  <properties/>
+  <testcase name="nullKey" classname="space.harbour.java.hw5.MyHashMapTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
